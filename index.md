@@ -2,7 +2,13 @@
 
 >In the begning when God created the heavens and the earth. the earth was a formless void and darkness covered the face of the deep, while a wind from God swept over the face of the waters. Then God said,"Let there be light"; and there was light. And God saw that the light was good; and God separated the light from the darkness. (GENESIS 1:1-4)
 
-#《零基础学python》（第二版）
+#《跟老齐学Python》（第二版）：From beginner to master.
+
+针对零基础的学习者，试图实现从基础到精通，还要看自己的造化。
+
+原名叫做《零基础学Python》，后来由于图书出版，更名为《跟老齐学Python》。
+
+《跟老齐学Python：从入门到精通》一书已经由电子工业出版社出版，于2016年3月1日起，陆续在亚马逊、京东、当当、淘宝等网站发售，请关注，并感谢支持。
 
 #第壹季 基础
 
@@ -55,6 +61,7 @@
 3. [函数(3)](./203.md)==>收集参数:`*`和`**`，及其逆过程，复习参数知识
 4. [函数(4)](./204.md)==>递归和filter、map、reduce、lambda、yield
 5. [函数练习](./205.md)==>解一元二次方程，统计考试成绩，找素数
+6. [zip()补充](./236.md)==>对zip()函数的用法进行补充说明
 
 #第贰季 进阶
 
@@ -67,7 +74,7 @@
 5. [类(5)](./210.md)==>静态方法和类方法，两者的区别，类的文档
 6. [多态和封装](./211.md)==>多态，封装和私有化
 7. [特殊方法(1)](./212.md)==>`__dict__`和`__slots__`
-8. [特殊方法(2)](./213.md)==>`__getattr__`,`__setattr__`以及查找属性顺序
+8. [特殊方法(2)](./213.md)==>`__getattr__`,`__setattr__`以及查找属性顺序,双划线解释
 9. [迭代器](./214.md)==>迭代器方法`__iter__`,`netx()`
 10. [生成器](./215.md)==>生成器定义，yield，生成器方法
 11. [上下文管理器](./235.md)==>上下文管理器的基本概念，使用方法和contextlib模块
@@ -129,3 +136,4 @@
 2. [ASCII、Unicode、GBK和UTF-8字符编码的区别联系](./n002.md)
 3. [大数据全栈式开发语言 – Python](./n003.md)
 4. [机器学习编程语言之争，Python夺魁](./n004.md)
+5. [Python 2.7.x 和 3.x 版本的重要区别](./n005.md)
